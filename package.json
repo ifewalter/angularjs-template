@@ -64,7 +64,7 @@
         "load-grunt-tasks": "^3.5.0",
         "phantomjs-prebuilt": "^2.1.7",
         "protractor": "^3.3.0",
-        "selenium-webdriver": "^2.53.2"
+        "selenium-webdriver": "^3.6.0"
     },
     "engines": {
         "node": "^4.4.6",
